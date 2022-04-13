@@ -22,10 +22,10 @@ In a RESTful API, endpoints (URLs) define the structure of the API and how end u
 In our case, we have three resources, `Tokens`, `Users` and `Posts`, so we will use the following URLS (endpoints):
  - `api/token/` 
     - _HTTP Method - POST_
-    - _Result - Create a new user_
+    - _Result - Get toketn_
  - `api/token/refresh/`
     - _HTTP Method - POST_
-    - _Result - Sign up user_
+    - _Result - Refresh token_
 
  - `/api/users/` 
     - _HTTP Method - GET_
