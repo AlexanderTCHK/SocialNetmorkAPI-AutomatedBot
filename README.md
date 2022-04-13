@@ -51,7 +51,7 @@ In our case, we have three resources, `Tokens`, `Users` and `Posts`, so we will 
     - _Result - Display like analytics_
 
 ## Use
-We can test the API directly throught test_script.py (modify apiconfig.py if needed), or you can use [Postman](https://www.postman.com/).
+We can test the API directly throught `test_script.py` (modify `apiconfig.py` if needed), or you can use [Postman](https://www.postman.com/).
 
 To start up Django's development server run:
 ```
